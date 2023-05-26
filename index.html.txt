@@ -1,0 +1,11 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Это заголовок</title>
+	</head>
+	<body>
+		<p>Это содержимое
+			<strong>стронг</strong>
+		вот такое вот</p>
+	</body>
+</html>	
